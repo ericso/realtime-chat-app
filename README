@@ -1,0 +1,5 @@
+Tutorial app that teaches Next.js and Pusher
+
+https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643
+
+The most exciting thing about this for me was the ease of getting a React app up and running. The server-rendered React app has advantages and disadvantages but very interesting and doesn't require a lot of boilerplate.
